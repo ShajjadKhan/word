@@ -1,17 +1,3 @@
-// const str = "hello world hello";
-
-// const chars = {};
-
-// const arr = str.split('');
-// console.log(arr)
-
-// for(let word of arr){
-//   if(!chars[word]){
-//     chars[word] = 1;
-//   }else{
-//     chars[word] ++;
-//   }
-// }
 
 const btn = document.querySelector('.btn');
 btn.addEventListener('click', function(){
